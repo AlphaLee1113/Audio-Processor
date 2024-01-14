@@ -1,3 +1,10 @@
+To run the website, 
+you can first goto "Window Powershell",
+and type "py -m http.server 80"
+then you can go back the browser and type 
+"localhost" and click "XXX.html"
+
+
 The webpage will be as follow:
 ![webpage](https://github.com/AlphaLee1113/Audio-Processor/assets/113546167/d45b08d7-11f8-459e-a1a2-c7524e7c393e)
 
